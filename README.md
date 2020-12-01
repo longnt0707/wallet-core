@@ -1,3 +1,6 @@
+Forked at Release 2.3.8
+671cc37626155c855637d569594d063043f7869f
+
 <img src="docs/banner.png" align="center" title="Trust logo">
 
 Trust Wallet Core is an open source, cross-platform, mobile-focused library
